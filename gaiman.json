@@ -1,7 +1,124 @@
 {
-    "quotes": [
-        {"quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.", "book": "Coraline"},
-        {"quote": "Sometimes you wake up. Sometimes the fall kills you. And sometimes, when you fall, you fly.", "book": "Fables & Reflections"},
-        {"quote": "I can believe things that are true and things that aren't true and I can believe things where nobody knows if they're true or not.", "book": "American Gods"}
-    ]
+  "quotes": [
+    {
+      "quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.",
+      "book": "Coraline"
+    },
+    {
+      "quote": "Sometimes you wake up. Sometimes the fall kills you. And sometimes, when you fall, you fly.",
+      "book": "Fables & Reflections"
+    },
+    {
+      "quote": "I can believe things that are true and things that aren't true and I can believe things where nobody knows if they're true or not.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "I believe in a personal god who cares about me and worries and oversees everything I do. I believe in an impersonal god who set the universe in motion and went off to hang with her girlfriends and doesn't even know that I'm alive. I believe in an empty and godless universe of causal chaos, background noise, and sheer blind luck.",
+      "book":"American Gods"
+    },
+    {
+      "quote": "I lived in books more than I lived anywhere else.",
+      "book": "The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "I do not miss childhood, but I miss the way I took pleasure in small things, even as greater things crumbled.",
+      "book": "The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "Nobody looks like what they really are on the inside. You don’t. I don’t. People are much more complicated than that. It’s true of everybody.",
+      "book":"The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "I went away in my head, into a book. That was where I went whenever real life was too hard or too inflexible.",
+      "book":"The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "Words save our lives, sometimes.",
+      "book":"The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "Different people remember things differently, and you'll not get any two people to remember anything the same, whether they were there or not.",
+      "book":"The Ocean at the End of the Lane"
+    },
+    {
+      "quote": "What I say is, a town isn’t a town without a bookstore. It may call itself a town, but unless it’s got a bookstore, it knows it’s not foolin’ a soul.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "Every hour wounds. The last one kills.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "You musn't be afraid of the dark.' 'I'm not,' said Shadow. 'I'm afraid of the people in the dark.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "He wondered whether home was a thing that happened to a place after a while, or if it was something that you found in the end, if you simply walked and waited and willed it long enough.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "I believe that all men are just overgrown boys with deep problems communicating.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "Too much talking these days. Talk talk talk. This country would get along much better if people learned how to suffer in silence.",
+      "book": "American Gods"
+    },
+    {
+      "quote": "They were kissing. Put like that, and you could be forgiven for presuming that this was a normal kiss, all lips and skin and possibly even a little tongue. You'd miss how he smiled, how his eyes glowed. And then, after the kiss was done, how he stood, like a man who had just discovered the art of standing and had figured out how to do it better than anyone else who would ever come along.",
+      "book": "Anansi Boys"
+    },
+    {
+      "quote": "Of course, everyone's parents are embarrassing. It goes with the territory. The nature of parents is to embarrass merely by existing, just as it is the nature of children of a certain age to cringe with embarrassment, shame, and mortification should their parents so much as speak to them on the street. ",
+      "book": "Anansi Boys"
+    },
+    {
+      "quote": "You have to believe. Otherwise, it will never happen.",
+      "book": "Stardust"
+    },
+    {
+      "quote": "'I am the most miserable person who ever lived,' he said... 'You are young, and in love,' said Primus. 'Every young man in your position is the most miserable young man who ever lived.'",
+      "book": "Stardust"
+    },
+    {
+      "quote": "Tristan and Yvaine were happy together. Not forever-after, for Time, the thief, eventually takes all things into his dusty storehouse, but they were happy, as these things go, for a long while",
+      "book": "Stardust"
+    },
+    {
+      "quote": "You're always you, and that don't change, and you're always changing, and there's nothing you can do about it.",
+      "book": "The Graveyard Book"
+    },
+    {
+      "quote": "Because,' she said, 'when you're scared but you still do it anyway, that's brave.",
+      "book": "Coraline"
+    },
+    {
+      "quote": "Face your life, its pain, its pleasure, leave no path untaken.",
+      "book": "The Graveyard Book"
+    },
+    {
+      "quote": "It's like the people who believe they'll be happy if they go and live somewhere else, but who learn it doesn't work that way. Wherever you go, you take yourself with you.",
+      "book": "The Graveyard Book"
+    },
+    {
+      "quote": "He had noticed that events were cowards: they didn't occur singly, but instead they would run in packs and leap out at him all at once.",
+      "book": "Neverwhere"
+    },
+    {
+      "quote": "I mean, maybe I am crazy. I mean, maybe. But if this is all there is, then I don't want to be sane.",
+      "book": "Neverwhere"
+    },
+    {
+      "quote": "So the day became one of waiting, which was, he knew, a sin: moments were to be experienced; waiting was a sin against both the time that was still to come and the moments one was currently disregarding. ",
+      "book": "Neverwhere"
+    },
+    {
+      "quote": "I want to go home. Then he mentally underlined the last sentence three times, rewrote it in huge letters in red ink, and circled it before putting a number of exclamation marks next to it in his mental margin.",
+      "book": "Neverwhere"
+    },
+    {
+      "quote": "Everybody going to be dead one day, just give them time.",
+      "book": "Anansi Boys"
+    }
+  ]
 }
